@@ -1,0 +1,2 @@
+export const CHECK_IN_OR_OUT = 'CHECK_IN_OR_OUT';
+export const CLOCK_IN_OUT_STATUSES = 'CLOCK_IN_OUT_STATUSES';

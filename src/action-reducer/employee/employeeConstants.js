@@ -1,0 +1,5 @@
+export const LOCATIONS = 'LOCATIONS';
+export const SHIFTS = 'SHIFTS';
+export const EMPLOYEES = 'EMPLOYEES';
+export const EMPLOYEE_LEAVES = 'EMPLOYEE_LEAVES';
+export const UNASSIGNED_EMPLOYEES = 'UNASSIGNED_EMPLOYEES';

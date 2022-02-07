@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273994436380",
+    "firebase_url": "https://wsh-ejob.firebaseio.com",
+    "project_id": "wsh-ejob",
+    "storage_bucket": "wsh-ejob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273994436380:android:0b1ecfdbe21671ef83f4d9",
+        "android_client_info": {
+          "package_name": "com.adaptive.wshejob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273994436380-5ag8l9va02blfori427afi9ii3feltds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwxz1pf4nxgJL4L5kGVqdY9ibknF2v5ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273994436380-5ag8l9va02blfori427afi9ii3feltds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
